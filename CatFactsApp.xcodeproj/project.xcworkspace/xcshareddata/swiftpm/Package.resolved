@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networkmanagerpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/razmaa/NetworkManagerPackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cb197b7c2c7bd5662de24feb6c12be21108811a1"
+      }
+    }
+  ],
+  "version" : 2
+}
